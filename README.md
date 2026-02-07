@@ -1,2 +1,2 @@
-# How-to-get-outlook-contacts-in-apple-mail
+# How-to-Get-Outlook-Contacts-in-Apple-Mail
 Want Outlook contacts in Apple Mail, then try <b>BitRecover <a href="https://www.bitrecover.com/pst-to-mbox.html">PST to MBOX converter</a></b> tool, because movement of Outlook contacts in Apple Mail directly is not possible. Apple Mail supports MBOX format and on the other hand Outlook support PST files, that's why the movement of PST file into MBOX format directly is not possible. Use PST to MBOX converter.
